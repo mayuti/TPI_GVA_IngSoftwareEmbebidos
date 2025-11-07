@@ -1,33 +1,32 @@
-# Trabajo Práctico Integrador – Ingeniería de Software en Sistemas Embebidos  
-### Rama: `test` (Desarrollo y Documentación en Progreso)
-
----
+# Actividad 1 – Ingeniería de Software en Sistemas Embebidos
 
 ## 📘 Descripción
-Esta rama contiene los documentos de **trabajo, análisis y desarrollo** del proyecto integrador de la asignatura **Ingeniería de Software en Sistemas Embebidos**.
+Esta carpeta contiene toda la documentación correspondiente a la **Actividad 1** del Trabajo Práctico Integrador (TPI) – *Sistema de Guiado Vehicular Automatizado (GVA)*.
 
-El propósito de esta rama es mantener un entorno de trabajo activo donde se elaboran, editan y revisan los entregables antes de su consolidación en la rama principal (`main`).
-
----
-
-## 🧩 Contenido actual
-desarrollo/
-└── Actividad_1/
-├── Actividad 1.odt
-└── Actividad_1_GVA.docx
-README.md
-LICENSE
+El objetivo de esta actividad es aplicar los conceptos de **análisis de requerimientos**, **modelado UML** y **documentación de casos de uso** sobre un sistema embebido de tipo vehicular automatizado.
 
 ---
 
-## 🔄 Flujo de trabajo
-1. Los integrantes del equipo trabajan aquí los documentos `.odt`, diagramas y versiones preliminares.  
-2. Una vez revisado el material, se genera la versión final en formato `.docx` o `.pdf`.  
-3. Las versiones finales son migradas a la rama `main` mediante *merge* o *push directo*.
+## 📂 Contenido
+| Archivo | Descripción |
+|----------|-------------|
+| `Actividad 1.odt` | Documento editable en formato LibreOffice, contiene la versión en desarrollo. |
+| `Actividad_1_GVA.docx` | Documento formateado para revisión. |
+| `diagramas/` | Diagramas UML (contexto, dominio, casos de uso). |
+| `entregas/` | Archivos exportados en PDF para envío. |
 
 ---
 
-## 👥 Integrantes del equipo
+## 🧩 Estado de la actividad
+- [x] Requerimientos del sistema  
+- [x] Diagrama de contexto  
+- [x] Modelo de dominio  
+- [x] Casos de uso  
+- [ ] Revisión final y aprobación  
+
+---
+
+## 👥 Integrantes
 - **Erica Vidal**  
 - **Jonathan Greppi**  
 - **Cristian Mayuti**  
@@ -35,8 +34,7 @@ LICENSE
 
 ---
 
-## 🏫 Institución
-**Universidad Nacional de Entre Ríos (FIUNER)**  
-**Carrera:** Especialización en Sistemas Embebidos  
+## 🏫 Información académica
+**Carrera:** Especialización en Sistemas Embebidos – FIUNER  
 **Materia:** Ingeniería de Software en Sistemas Embebidos  
 **Año:** 2025
