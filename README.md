@@ -40,8 +40,6 @@ LICENSE
 
 ## 👥 Integrantes del equipo
 
-- **Erica Vidal**  
-- **Jonathan Greppi**  
 - **Cristian Mayuti**  
 - **Carlos Baretta**  
 
