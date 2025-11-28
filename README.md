@@ -1,41 +1,54 @@
 # Trabajo Práctico Integrador – Ingeniería de Software en Sistemas Embebidos  
-### Rama: `test` (Desarrollo y Documentación en Progreso)
+### Rama: `main` (Entregas Finales)
 
 ---
 
 ## 📘 Descripción
-Esta rama contiene los documentos de **trabajo, análisis y desarrollo** del proyecto integrador de la asignatura **Ingeniería de Software en Sistemas Embebidos**.
+Esta rama almacena la **versión final y consolidada** del Trabajo Práctico Integrador (TPI) correspondiente a la materia **Ingeniería de Software en Sistemas Embebidos**.
 
-El propósito de esta rama es mantener un entorno de trabajo activo donde se elaboran, editan y revisan los entregables antes de su consolidación en la rama principal (`main`).
-
----
-
-## 🧩 Contenido actual
-desarrollo/
-└── Actividad_1/
-├── Actividad 1.odt
-└── Actividad_1_GVA.docx
-README.md
-LICENSE
+Todo el contenido aquí publicado ha sido previamente trabajado, revisado y validado en la rama `test`, constituyendo la **entrega oficial** del equipo.
 
 ---
 
-## 🔄 Flujo de trabajo
-1. Los integrantes del equipo trabajan aquí los documentos `.odt`, diagramas y versiones preliminares.
-2. Una vez revisado el material, se genera la versión final en formato `.docx` o `.pdf`.
-3. Las versiones finales son migradas a la rama `main` mediante *merge* o *push directo*.
+## 📦 Contenido actual
+
+final/  
+├── codigo/  
+└── Trabajo_Practico.pdf  
+
+README.md  
+LICENSE  
+
+---
+
+## 🚀 Flujo de trabajo y entrega
+
+1. La rama **`test`** se utiliza para:
+   - desarrollo activo del documento,  
+   - trabajo preliminar,  
+   - edición y revisión de diagramas,  
+   - implementación de código base.  
+
+2. Una vez finalizado y revisado el material, las versiones definitivas se migran a **`main`**.
+
+3. La rama **`main`** contiene únicamente:
+   - entregables finales,  
+   - versiones aprobadas del informe,  
+   - código estructurado correspondiente al punto 3.d.  
 
 ---
 
 ## 👥 Integrantes del equipo
+
 - **Erica Vidal**  
 - **Jonathan Greppi**  
-- **Cristian Mayuti**
-- **Carlos Baretta**
+- **Cristian Mayuti**  
+- **Carlos Baretta**  
 
 ---
 
 ## 🏫 Institución
+
 **Universidad Nacional de Entre Ríos (FIUNER)**  
 **Carrera:** Especialización en Sistemas Embebidos  
 **Materia:** Ingeniería de Software en Sistemas Embebidos  
